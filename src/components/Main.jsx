@@ -9,13 +9,18 @@ import GetInTouch from '@/components/dist/GetInTouch';
 import Pooted from '@/components/dist/Pooted'
 import { BackToTop} from '@/components/dist/Btt'
 import Waypoints from "@/components/dist/dust/waypoints"
-
+import { useEffect } from "react"
 export default function Page() {
+	useEffect(() => {
+		setInterval(() => {
+			document.getElementById(bod).classList.add("text-black")
+		},30)
+	})
   return (
     <>
           <Nav />
 			 	  <BackToTop />
-           <div className="pt-28">
+           <div id="bod" className="pt-28">
 						 <Waypoints target={'tohome'}>
                  <div id="tohome" className="grid grid-cols-1 md:grid-cols-2 pl-5 pt-0">
                     <div>
