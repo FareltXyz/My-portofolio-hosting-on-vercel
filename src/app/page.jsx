@@ -18,11 +18,7 @@ export default function Page() {
   }, []);
   return (
     <div>
-			{isLoading ? (
         <Main />
-      ) : (
-        <Loading />
-      )}
     </div>
   );
 };
