@@ -1,0 +1,50 @@
+{
+	"card_code": [
+		{
+			"name": "JavaScript",
+			"description": "JavaScript is a versatile and widely used programming language for web development. It allows developers to create interactive and dynamic web applications, enabling client-side scripting to enhance user experiences.",
+			"url": "https://www.javascript.com/",
+			"icon": "https://unpkg.com/ionicons@7.1.0/dist/svg/logo-nodejs.svg"
+		},
+		{
+			"name": "Python",
+			"description": "Python is a high-level programming language known for its simplicity and readability. It is widely used in various applications, including web development, data analysis, artificial intelligence, and more. Python's extensive libraries and community support make it a popular choice for both beginners and experienced developers.",
+			"url": "https://www.python.org",
+			"icon": "https://unpkg.com/ionicons@7.1.0/dist/svg/logo-python.svg"
+		},
+		{
+			"name": "HTML",
+			"description": "HTML, the backbone of the web, is a markup language used for structuring content on the internet. It defines the elements and structure of web pages, allowing developers to create headings, paragraphs, images, links, and more.",
+			"url": "https://www.w3schools.com/html/",
+			"icon": "https://unpkg.com/ionicons@7.1.0/dist/svg/logo-html5.svg"
+		},
+		{
+			"name": "CSS",
+			"description": "CSS is a styling language that works hand-in-hand with HTML, enabling the design and layout of web pages. With CSS, developers can control colors, fonts, spacing, and other visual aspects of a website, ensuring a polished and professional look.",
+			"url": "https://www.w3schools.com/css/",
+			"icon": "https://unpkg.com/ionicons@7.1.0/dist/svg/logo-css3.svg"
+		}
+	],
+	"card_people": [
+		{
+			"name": "jastinXyz",
+			"website": "https://jstnlt.my.id",
+			"bio": "Hi 👋🏼, I'm Jastin Linggar T. a self-taught Indonesian programmer. since 2020, I've been learning programming."
+		},
+		{
+			"name": "FareltXyz",
+			"website": "#",
+			"bio": "Hi, Im Farel. a self-taught indonesian programmer. I've been learning coding since 2021"
+		},
+		{
+			"name": "Regatryl",
+			"website": "https://regatsa.my.id",
+			"bio": "Hi, am also known as Regat in the online world. i learn coding since 2021"
+		},
+		{
+			"name": "mengkodingan",
+			"website": "https://mengkodingan.my.id",
+			"bio": "it's time to mengkodingan"
+		}
+	]
+}

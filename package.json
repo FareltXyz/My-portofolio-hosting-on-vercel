@@ -1,0 +1,33 @@
+{
+  "name": "porto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "--legacy-peer-deps": "0.0.1-security.6",
+    "aos": "^2.3.4",
+    "daisyui": "^3.9.3",
+    "js-cookie": "^3.0.5",
+    "lru-cache": "^7.18.3",
+    "mongodb": "^5.9.1",
+    "next": "13.5.6",
+    "ordinal": "^1.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "react-intersection-observer": "^9.5.2",
+    "react-typed": "^1.2.0",
+    "webhook-discord": "^3.7.8"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
