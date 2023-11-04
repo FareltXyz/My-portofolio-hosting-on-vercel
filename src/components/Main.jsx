@@ -47,6 +47,7 @@ export default function Page() {
 				    		 </div>
 							</Waypoints>
            </div>
+			
 			    <Pooted />
     </>
   )
