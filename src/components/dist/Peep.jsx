@@ -25,7 +25,7 @@ return (
 	<>
 		<Toaster />
 	  <div className={`md:max-w-screen-sm md:top-[60px] md:sticky md:scale-[85%]`}>
-			<h1 className="text-3xl font-extrabold leading-10 tracking-tight text-left text-base-900 sm:leading-none md:text-3xl lg:text-4xl">Hi There <span className="animate-wave inline-block">👋🏻</span>, I&apos;m M. FAREL W.
+			<h1 className="text-3xl font-extrabold leading-10 tracking-tight text-left sm:leading-none md:text-3xl lg:text-4xl">Hi There <span className="animate-wave inline-block">👋🏻</span>, I&apos;m M. FAREL W.
 			</h1>
 			<p className="md:text-xl font-extrabold md:inline-block md:mt-0 mt-2">
 				{`Someone who likes to `}
